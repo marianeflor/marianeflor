@@ -2,13 +2,13 @@
 
 My name is Mariane Flôr from Brazil 🇧🇷. 
 
-💬 I'm a Javascript Frontend programmer, with knowledge in JavaScript (ES6), HTML, CSS, React.js, Node.js, Jest and GIT versioning.
+I'm a Javascript Frontend programmer, with knowledge in JavaScript (ES6), HTML, CSS, React.js, Node.js, Jest and GIT versioning.
 
-:construction_worker: I'm a Civil Engineer by academic formation, currently looking for career change and the first professional opportunity as a programmer.
+I'm looking for career change and the first professional opportunity as a programmer.
 
 😄 Pronouns: She | Ela | Ella
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariane-fl%C3%B4r-b53988111)](https://www.linkedin.com/in/mariane-fl%C3%B4r-b53988111)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianeflor)](https://www.linkedin.com/in/marianeflor)
 
 <!--
 **marianeflor/marianeflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
