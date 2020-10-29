@@ -4,8 +4,6 @@ My name is Mariane Flôr from Brazil 🇧🇷.
 
 I'm a Javascript Frontend programmer, with knowledge in JavaScript (ES6), HTML, CSS, React.js, Node.js, Jest and GIT versioning.
 
-I'm looking for career change and the first professional opportunity as a programmer.
-
 😄 Pronouns: She | Ela | Ella
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianeflor)](https://www.linkedin.com/in/marianeflor)
